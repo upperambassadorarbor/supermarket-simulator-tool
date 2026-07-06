@@ -1,0 +1,6 @@
+# Supermarket Simulator Tool Dependencies
+# No external dependencies required for core functionality
+# Testing
+pytest>=7.0.0
+# Documentation (optional)
+sphinx>=5.0.0
